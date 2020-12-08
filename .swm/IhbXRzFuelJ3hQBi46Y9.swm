@@ -1,6 +1,6 @@
 {
     "id": "IhbXRzFuelJ3hQBi46Y9",
-    "name": "✨ Add a Unit Tutorial",
+    "name": "🎉 Add a Unit Tutorial",
     "dod": "Create your own Unit by editing this one!",
     "description": "**Create your first Unit by clicking edit and start adding your code snippets!**\n\nA great place to start, Units are quick code tutorials to help contributors learn and navigate code flows.\n\nUnits are based in Snippets that can be highlighted from your own code, taken from a commit sha or synced from your current IDE changes. They usually showcase a logic or pattern inside the same or different files that demonstrate an insight or best practices. Synced with your code, with Units your documentation will be always  up to date.\n\nContributors can learn this unit by reading it as a tutorial - like in this example - or also by playing it as a task exercise.\n",
     "summary": "",
@@ -41,5 +41,5 @@
     },
     "app_version": "0.2.8",
     "file_version": "1.0.4",
-    "last_commit_sha_for_swimm_patch": "40f506890cdb8fcb4767dee0cf989384a224c286"
+    "last_commit_sha_for_swimm_patch": "f25c467fbecb91d51fcc483499604af69a421c2d"
 }
