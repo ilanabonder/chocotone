@@ -1,14 +1,15 @@
 {
     "id": "IhbXRzFuelJ3hQBi46Y9",
-    "name": "Create Your First Unit",
+    "name": "Add Your First Unit",
     "dod": "Create your own Unit by editing this one!",
-    "description": "A great place to start, Units are quick code tutorials to help contributors learn and navigate code flows.\n\nUnits are based in Snippets that can be highlighted from your own code, taken from a commit sha or synced from your current IDE changes. They usually showcase a logic or pattern inside the same or different files that demonstrate an insight or best practices. Synced with your code, with Units your documentation will be always  up to date.\n\nContributors can learn this unit by reading it as a tutorial or playing as a task exercise.\n\n**Create your first Unit by clicking edit and start adding your code snippets!**\n",
+    "description": "**Create your first Unit by clicking edit and start adding your code snippets!**\n\nA great place to start, Units are quick code tutorials to help contributors learn and navigate code flows.\n\nUnits are based in Snippets that can be highlighted from your own code, taken from a commit sha or synced from your current IDE changes. They usually showcase a logic or pattern inside the same or different files that demonstrate an insight or best practices. Synced with your code, with Units your documentation will be always  up to date.\n\nContributors can learn this unit by reading it as a tutorial - like in this example - or also by playing it as a task exercise.\n",
     "summary": "",
     "hunksOrder": [
         "css/owl.theme.css_0"
     ],
     "tests": [],
     "hints": [],
+    "play_mode": "walkthrough",
     "swimmPatch": {
         "css/owl.theme.css": {
             "diffType": "MODIFIED",
@@ -40,5 +41,5 @@
     },
     "app_version": "0.2.8",
     "file_version": "1.0.4",
-    "last_commit_sha_for_swimm_patch": "50ddeec1d5c4d88031e8118e95a4772e48654b4d"
+    "last_commit_sha_for_swimm_patch": "8ef41d51054037ac0b5fcd28791248929898bead"
 }
